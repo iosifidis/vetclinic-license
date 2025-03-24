@@ -1,8 +1,10 @@
-# ps-info-template
+# vetclinic-licence
 
-Case Study you can use as a template to create a web-based dialog system that covers the information stage of a public service. This system includes two main elements, a questionnaire and a number of questions (with their answers) that are frequently asked by citizens about this service, known as FAQs. It was created in order to inform citizens whether or not they are eligible for the public service and to provide information on the documents required.
+Case Study. A web-based dialog system that covers the information stage of a public service. This system includes two main elements, a questionnaire and a number of questions (with their answers) that are frequently asked by citizens about this service, known as FAQs. It was created in order to inform citizens whether or not they are eligible for the public service and to provide information on the documents required.
 
-You can visit the web-based dialogue system [here](https://govgr-mobility-card.github.io/info-for-mobility-card-gr/).
+You can visit the web-based dialogue system [here](https://iosifidis.github.io/vetclinic-license/).
+
+The link from MITOS is [this](https://mitos.gov.gr/index.php/ΔΔ:Άδεια_Ίδρυσης_και_Λειτουργίας_Ιδιωτικών_Κλινικών_Ζώων) (in [English](https://en.mitos.gov.gr/index.php/ΔΔ:Approval_for_the_Establishment_and_Approval_Of_Operation_Of_Private_Animal_Clinics))
 
 ## Requirements
 
